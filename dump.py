@@ -54,9 +54,9 @@ def banner():
     print('               ▀                       ')
     print('          Get Leaked Data From Site (website)                        ')
     print('                            Version 2.10                              ')
-    print('                       A project by Denis Putra                          ')
-    print('SpecialL Thanks To: Dcode Denpa , ICSF Team , Jakarta GrayHat Hackers , Manusia Super Hacker Team , INDOS666Gh0sT Sec |Revolutions , GreyHat Sec666 Gh0sT , Security Agency_X7 , ANONYMOUS INDONESIA | Revolutions')
-    print('                  python3 Dump.py -h to start                    ' + Style.RESET_ALL)
+    print('                       A project by Moxuintexa                          ')
+    print('          SPECIAL TAHUN BARU 2024 THANKS TO : AnonSadBoy')
+    print('                  python3 dump.py -h to start                    ' + Style.RESET_ALL)
     print("-" * 73)
 
 
